@@ -1,0 +1,16 @@
+.MuiTableCell-head .MuiTableSortLabel-root,
+.MuiTableCell-head .MuiTableSortLabel-root.Mui-active,
+.MuiTableCell-head .MuiTableSortLabel-root:hover,
+.MuiTableCell-head .MuiTableSortLabel-root .MuiTableSortLabel-icon,
+.MuiTableCell-head .MuiTableSortLabel-root.Mui-active .MuiTableSortLabel-icon,
+.MuiTableCell-head .MuiTableSortLabel-root .MuiTableSortLabel-icon:hover {
+    color: #fff;
+}
+
+.MuiTableCell-head .MuiTableSortLabel-root.Mui-active:hover .MuiTableSortLabel-icon {
+    opacity: 1;
+}
+
+.MuiTableCell-head .MuiTableSortLabel-root:hover .MuiTableSortLabel-icon {
+    opacity: 0.8;
+}
